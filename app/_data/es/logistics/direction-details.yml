@@ -1,0 +1,28 @@
+image: "direction-details.jpg"
+title: "Get around Cáceres"
+cards:
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Cáceres has lots of great hotels and hostels. More information will be available later.'}
+wideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/u/0/100189697268294760035/about", text: "Hotel Extremadura"}
+     - {link: "https://plus.google.com/u/0/108941179531701317124/about", text: "Hotel Agora"}
+     - {link: "https://plus.google.com/u/0/103895714885488327664/about", text: "Hotel V Centenario"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/u/0/100189697268294760035/about", text: "Hotel Extremadura"}
+     - {link: "https://plus.google.com/u/0/108941179531701317124/about", text: "Hotel Agora"}
+     - {link: "https://plus.google.com/u/0/103895714885488327664/about", text: "Hotel V Centenario"}
+   
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/u/0/100189697268294760035/about", text: "Hotel Extremadura"}
+     - {link: "https://plus.google.com/u/0/108941179531701317124/about", text: "Hotel Agora"}
+     - {link: "https://plus.google.com/u/0/103895714885488327664/about", text: "Hotel V Centenario"}
+   

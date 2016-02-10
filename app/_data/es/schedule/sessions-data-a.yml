@@ -1,0 +1,161 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Coffee break – Campeonatos"
+  place: "Dining room"
+  service: true
+-
+  id: 504
+  title: "Lunch break – Campeonatos"
+  place: "Dining room"
+  service: true
+-
+  id: 750
+  title: "Wrap up – Premios – Sorteos – Etc"
+  place: ""
+  service: true
+-
+  id: 100
+  title: "Evento networking – Birra- Clausura"
+  place: ""
+  service: true
+-
+  id: 200
+  title: "Break"
+  place: ""
+  service: true
+-
+  id: 300
+  title: "Inaguración"
+  place: ""
+  service: true
+-
+  id: 800
+  title: "Resumen del Google I/O"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: "Intermediate"
+-
+  id: 111
+  title: "Recogida de Credenciales"
+  place: ""
+  service: true
+-
+  id: 001
+  title: "Material en 30 Minutos o le Devolvemos el Dinero"
+  description: "Aprende cuales son los puntos básicos con Material para que puedas poner al día tu app en el mínimo tiempo posible y vuelvas a ser la comidilla entre tus colegas y tus jefes. Éxito garantizado o te devolvemos el dinero El ponente podría devolver el dinero en forma de cervezas en casos puntuales."
+  subtype: presentation
+  speakers: [14]
+  complexity: "Beginner"
+-
+  id: 002
+  title: "New World of Web Development with Polymer"
+  description: "Componentes Web permiten crear código reutilizable y fácil de mantener , pero con Polymer va a hacer que sea mucho más fácil y más rápido. Imagínense la creación de aplicaciones con la composición de elementos y su lógica de negocio . Yo te mostraré cómo utilizar Polymer."
+  subtype: presentation
+  speakers: [12]
+  complexity: "Intermediate" 
+  presentation: ""
+-
+  id: 003
+  title: "Monitorizando tus Aplicaciones con Google Cloud Monitoring"
+  description: "Ahora que Cloud Monitoring ha salido de private alpha, merece la pena dedicar un rato a ver lo que soporta. En esta presentación Nacho Coloma va a hacer clic en todos los menús de la última incorporación de Google Cloud Platform, tratando de dar soporte a tantos casos de uso de monitorización como sea posible."
+  subtype: presentation
+  speakers: [1]
+  complexity: "Intermediate" 
+  presentation: ""
+-
+  id: 004
+  title: "Persistiendo"
+  description: "Charla sobre persistencia de información, distintas opciones y como tener un acceso transparente a los datos, y la importancia del acceso offline."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: 005
+  title: "Testing y Refactor, Hermanos de Leche"
+  description: "En esta charla se vera brevemente conceptos básicos de testing y algunos refactors básicos. Pasada la teoría se vera código de verdad, tests y refactors aplicados. Se veran algunas técnicas mínimas y herramientas/librerías que podrás incorporar a tu caja de herramientas del día a día. No bullshit garantie!"
+  subtype: presentation
+  speakers: [9]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 006
+  title: "Working with Android TV"
+  description: "Android ha evolucionado hasta darnos la posibilidad de crear aplicaciones para televisión, un nuevo dispositivo que se encuentra en cualquier casa. El desarrollo de aplicaciones Android para este nuevo set de dispositivos supone un nuevo reto para los programadores que deberán afrontar en breve. A lo largo de esta charla veremos cuales son las claves para el desarrollo de este tipo de aplicaciones que estarán en los salones de nuestra casa en breve. ¿Te lo vas a perder?"
+  subtype: presentation
+  speakers: [8]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 007
+  title: "Polymer en 3D - Que la Fuerza te Acompañe"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 008
+  title: "What's new Google I/O"
+  description: "Se hablara de todas las novedades presentadas en GOOGLE I/0"
+  subtype: presentation
+  speakers: [2,3]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 009
+  title: "Lo que puedes hacer y no con el software libre"
+  description: "Android Open Source Project ( AOSP ) es un gran proyecto de código abierto , y alrededor de ella se puede encontrar una gran cantidad de librerías de código abierto / código , en esta charla voy a hablar acerca de lo que puede y no puede hacer con software de código abierto , y tratar de responder a algunas preguntas como - ¿Es de código abierto el mismo que el Software Libre ? - Todo el código que encontró en Internet y que puede utilizar es de código abierto ? - ¿Puedo usar la licencia X con mi aplicación propietaria ? - ¿Puedo mezclar licencias X e Y ? - ¿Puedo hacer dinero si uso o el desarrollo de software de código abierto ? ( modelos de negocio ) - ¿Cómo puedo contribuir a un proyecto de software de código abierto ? - ¿Cuáles son los beneficios de liberar mi aplicación en virtud de software de código abierto ? y los riesgos ? Así que esta charla tratará de aclarar todas las cosas relacionadas con Open Source se puede tratar en sus aplicaciones o software en general."
+  subtype: presentation
+  speakers: [3]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 010
+  title: "Introduciendo Tango"
+  description: "Tango es un nuevo proyecto de Google que permite hacer mediciones de espacios y y seguir el movimiento del dispositivo en 3D en tiempo real."
+  subtype: presentation
+  speakers: [11,13]
+  complexity: "Expert"
+  presentation: ""
+
+-
+  id: 011
+  title: "Clean Architecture"
+  description: "Paso a paso explicare como estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y como esto nos ayuda a construir un software más solido, extensible y refactorizable."
+  subtype: presentation
+  speakers: [15]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 012
+  title: "Como ser un buen developer"
+  description: "Que es para mi un buen programador. Son mi opiniones si te caigo mal no vengas, o ven a meterte conmigo."
+  subtype: presentation
+  speakers: [5]
+  complexity: "Expert"
+  presentation: ""
+  
+-
+  id: 013
+  title: "BigQuery"
+  description: "Análisis de los datos de los muggles . No hay asuntos que el fondo que tiene, durante el taller aprenderán sobre BigQuery , una de las tecnologías de lujo detrás de los servicios de Google . La herramienta proporciona una interfaz sencilla para ejecutar consultas complejas en la llanura de SQL sobre grandes conjuntos de datos. Aún más , usted aprenderá cómo conseguir los datos de entrada y salida del sistema , componer consultas , los detalles sobre API BigQuery o cómo utilizarlo desde las herramientas de terceros . En definitiva una vía rápida para obtener información de su análisis."
+  subtype: presentation
+  speakers: [16]
+  complexity: "Expert"
+  presentation: ""
+-
+  id: 014
+  title: "Mesa redonda"
+  description: "Se hara con todos los speakers, en la cual se contestaran a preguntas o seran propuestas por los speakers para animar a participar al publico, haciendo asi pequeños debates."
+  subtype: presentation
+  speakers: [2,3]
+  complexity: "Expert"
+  presentation: ""

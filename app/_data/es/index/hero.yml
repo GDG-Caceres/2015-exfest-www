@@ -1,0 +1,7 @@
+image: "hero.png"
+title: "ExFest <typeout> "
+eventDate: "¿Cuándo?</br> 5 y 6 de Junio 2015 </br></br>¿Que es?</br> Te traemos a Cáceres a los mejores ponentes para</br> que os cuenten sobre Android Cloud Computing y Desarrollo Web</br></br> ¡No te lo pierdas!"
+typeoutTextValues: '"", "España", "Extremadura", "Cáceres"'
+typeoutFallback: ""
+buttons:
+ - {permalink: "/#tickets", text: "Consigue tu entrada"} 

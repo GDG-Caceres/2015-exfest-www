@@ -1,0 +1,128 @@
+- 
+  date: "05-06-2015"
+  dateReadable: "5 Junio"
+  tracks: 
+    - {title: "Salon de actos EPCC", color: "#CE0F88"}
+  timeslots:
+
+    - {
+    	startTime: "16:30",
+    	endTime: "17:00",
+    	sessionIds: [111]
+    }
+    
+    - {
+    	startTime: "17:00",
+    	endTime: "17:30",
+    	sessionIds: [300]
+    }
+    
+    - {
+    	startTime: "17:45",
+    	endTime: "18:15",
+    	sessionIds: [010]
+    }
+    - {
+    	startTime: "18:15",
+    	endTime: "18:30",
+    	sessionIds: [200]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "19:00",
+    	sessionIds: [012]
+    }
+    - {
+    	startTime: "19:15",
+    	endTime: "20:00",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "20:15",
+    	endTime: "21:00",
+    	sessionIds: [008]
+    }
+    - {
+    	startTime: "21:00",
+    	endTime: "",
+    	sessionIds: [100]
+    }
+   
+- 
+  date: "06-06-2015"
+  dateReadable: "6 Junio"
+  tracks: 
+    - {title: "Salon de actos EPCC", color: "#CE0F88"}
+  
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "09:45",
+    	sessionIds: [013]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [307]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:15",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:15",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "15:00",
+    	sessionIds: [504]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:45",
+    	sessionIds: [005]
+
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:45",
+    	sessionIds: [003]
+    	
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "17:30",
+    	sessionIds: [503]
+    	
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "18:15",
+    	sessionIds: [007]
+    	
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "19:15",
+    	sessionIds: [008]
+    	
+    }
+    - {
+    	startTime: "19:30",
+        endTime: "",
+    	sessionIds: [750]
+    	
+    }

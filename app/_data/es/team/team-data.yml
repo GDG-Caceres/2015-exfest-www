@@ -1,0 +1,57 @@
+-
+  id: 0
+  name: "Juan "
+  surname: "Barambones"
+  company: "Remotte Labs"
+  title: "CEO Remotte"
+  thumbnailUrl: Jc.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106379834545393355098/posts"}
+    - {name: "twitter", link: "https://twitter.com/juanbarambones"}
+-
+  id: 1
+  name: "Oscar"
+  surname: " Caballero Pozas"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Oscar.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+OscarCaballeroPozas96/posts"}
+    - {name: "twitter", link: "https://twitter.com/Oscar_pozas"}
+    - {name: "github", link: "https://github.com/MrSuid"}
+
+-
+  id: 2
+  name: "Lara"
+  surname: "Serradilla López"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Lara.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115527442977815188349/posts"}
+    - {name: "twitter", link: "https://twitter.com/Laritaa21"}
+    - {name: "github", link: "https://github.com/Laritaa"}
+-
+  id: 3
+  name: "Borja"
+  surname: "Godoy Gago"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Borja.jpeg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/118421668812651988547/posts" }
+    - {name: "twitter", link: "https://twitter.com/gody11"}
+-
+  id: 4
+  name: "Diana"
+  surname: "Lopez"
+  company: "GDG Cáceres"
+  title: "CEO Remotte"
+  thumbnailUrl: Diana.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106159784260415992563/about"}

@@ -1,0 +1,15 @@
+title: "Precio de la entrada"
+info: "Las entradas dan acceso a todas las charlas del evento."
+offers:
+ -
+  name: "Entrada ExFest 2015"
+  price: "15"
+  priceCurrency: "EUR"
+  ticketsNumber: "300"
+  featured: true
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-exfest-16790361423"
+  buyButtonText: "¡Comprar ahora!"
+  ticketContentList: ["Accede a uno de los mejores eventos para desarrolladores y diseñadores de Extremadura", "Acceso a todas las charlas y participación en actividades", "Comida includida y cerveza hasta fin de existencia"]
+  validFrom: "2015-04-28T00:00"
+  validThrough: "2015-06-02T23:59"
+  fallback: "COMPRAR"

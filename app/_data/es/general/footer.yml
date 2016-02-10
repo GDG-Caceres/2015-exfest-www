@@ -1,0 +1,14 @@
+languagesTitle: ""
+socialLinks:
+ - {link: "https://plus.google.com/110029291185137285136/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgcaceres?lang=es", icon: "twitter"}
+ - {permalink: "/feed.xml", icon: "rss"}
+blocks:
+ -
+  title: "LINKS"
+  links:
+   - {link: "https://plus.google.com/110029291185137285136", text: "GDG Cáceres"}
+ -
+  title: "CONTACTO"
+  links:
+   - {link: "gdgcaceres@gmail.com", text: "gdgcaceres@gmail.com"}

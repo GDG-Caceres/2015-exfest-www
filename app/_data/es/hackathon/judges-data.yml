@@ -1,0 +1,52 @@
+- 
+  id: 0
+  name: "Juan Carlos "
+  surname: "Barambones"
+  company: "Remotte Labs"
+  title: "Developer"
+  thumbnailUrl: Jc.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/106379834545393355098/posts"}
+    - {name: "twitter", link: "https://twitter.com/juanbarambones?lang=es"}
+- 
+  id: 1
+  name: "Oscar"
+  surname: " Caballero Pozas"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Oscar.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+OscarCaballeroPozas96/posts"}
+    - {name: "twitter", link: "https://twitter.com/Oscar_pozas?lang=es"}
+    - {name: "github", link: "https://github.com/MrSuid"}
+  
+- 
+  id: 2
+  name: "Lara"
+  surname: "Serradilla López"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Lara.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/115527442977815188349/posts"}
+    - {name: "twitter", link: "https://twitter.com/Laritaa21?lang=es"}
+    - {name: "site", link: "https://github.com/Larita"}
+- 
+  id: 3
+  name: "Borja"
+  surname: "Godoy Gago"
+  company: "GDG Cáceres"
+  title: "Android Developer"
+  thumbnailUrl: Borja.jpg
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/gody11?lang=es"}
+    
+  id: 4
+  name: "Diana"
+  surname: "Lopez"
+  company: "GDG Cáceres"
+  title: "CFO"
+  thumbnailUrl: Diana.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/106159784260415992563/about"}

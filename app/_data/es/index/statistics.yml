@@ -1,0 +1,7 @@
+image: "statistic.jpg"
+blocks:
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de charlas con los mejores"}
+ - {count: "12", specialCharacter: "", info: "ponentes", detail: "de calidad absoluta"}
+ - {count: "3", specialCharacter: "", info: "talleres y concursos", detail: "con los que descansar un poco"}
+ - {count: "120", specialCharacter: "+", info: "asistentes", detail: "de todas partes"}
+ 

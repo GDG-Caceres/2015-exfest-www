@@ -1,0 +1,11 @@
+links:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Programación"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ -
+   subText: "Social"
+   links:
+    - {link: "https://plus.google.com/110029291185137285136/posts", text: "+GDG Caceres"}
+    - {link: "https://twitter.com/gdgcaceres?lang=es", text: "@gdgcaceres"}
+
