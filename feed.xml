@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://gdg-caceres.github.io/2015-exfest-www/</link>
+    <atom:link href="http://gdg-caceres.github.io/2015-exfest-www/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 12 Feb 2016 13:44:53 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 13:44:53 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hello ExFext!</title>
+        <description>&lt;p&gt;Nos complace anunciar que ya esta disponible la lista de ponentes que asistiran al ExFext 2015 que se realizara en
+Cáceres de la mano del GDG Cáceres. En breves publicaremos actualizaciones con la programación, horarios y fechas oficiales
+del evento.&lt;/p&gt;
+
+&lt;p&gt;Un saludo desde la organización del ExFext.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Apr 2015 10:00:00 +0200</pubDate>
+        <link>http://gdg-caceres.github.io/2015-exfest-www/blog/hello-world</link>
+        <guid isPermaLink="true">http://gdg-caceres.github.io/2015-exfest-www/blog/hello-world</guid>
+        
+        
+            
+        
+            
+            <category>es</category>
+            
+        
+      </item>
+    
+  </channel>
+</rss>
