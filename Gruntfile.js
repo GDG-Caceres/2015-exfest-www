@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: '2015-exfest-www',
-            git_repo: 'git@github.com:GDG-Caceres/2015-exfest-www.git',
+            git_repo: 'https://github.com/GDG-Caceres/2015-exfest-www.git',
             branch: 'gh-pages'
         },
         watch: {

@@ -14,8 +14,8 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/2015-exfest-www"
-url: "http://gdg-caceres.github.io"
+baseurl: ""
+url: "http://2015.exfest.es"
 permalink: '/blog/:title'
 
 # i18n
